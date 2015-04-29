@@ -14,8 +14,8 @@ I first considered making a Wireshark plugin but I'm not familiar with the API a
 
 **Documentation: [usage](Usage.md) and [technical description](TechnicalDescription.md)**
 
-**Lastest version: [v0.1a](http://code.google.com/p/proxyshark/downloads/detail?name=proxyshark-v0.1.tar.gz&can=2&q=) ([changelog](ChangeLog.md))**
+**Lastest version: [v0.1a](https://github.com/BackupGGCode/proxyshark/releases/tag/0.1a) ([changelog](https://github.com/BackupGGCode/proxyshark/blob/wiki/ChangeLog.md))**
 
-**Coming soon: v1.0b ([todolist](ToDoList.md))**
+**Coming soon: v1.0b ([todolist](https://github.com/BackupGGCode/proxyshark/blob/wiki/ToDoList.md))**
 
 _Nicolas G._
